@@ -1,0 +1,21 @@
+req-id,req-name
+MYAPP-001,User Login
+MYAPP-002,User Registration
+MYAPP-003,Product Search
+MYAPP-004,Product Filtering
+MYAPP-005,Product Details
+MYAPP-006,Add to Cart
+MYAPP-007,Remove from Cart
+MYAPP-008,Update Cart Quantity
+MYAPP-009,View Cart
+MYAPP-010,Checkout Process
+MYAPP-011,Apply Discount Codes
+MYAPP-012,Shipping Address Selection
+MYAPP-013,Payment Gateway Integration
+MYAPP-014,Order Confirmation
+MYAPP-015,Order Tracking
+MYAPP-016,User Profile Management
+MYAPP-017,User Order History
+MYAPP-018,Wishlist Management
+MYAPP-019,Product Reviews
+MYAPP-020,Customer Support Chat
